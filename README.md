@@ -1,1 +1,2 @@
-# Team_8_mall_management
+# CRM_mall_management
+   Salesforce-based CRM streamlines mall management by centralizing data, automating processes, and improving tenant and customer relationships. It enhances engagement, operational efficiency, and decision-making with features like tenant profiles, lease tracking, and dashboards. The system supports growth and offers potential for AI-driven insights and automation to meet evolving retail needs.
